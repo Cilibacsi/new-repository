@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'FelhoFeleves'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_289D59BAA1844FBA9EFFEFC7F7B8AC82 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EB6FFE851F54263BC73DEAC323192B5 }}
           package: .
